@@ -9,7 +9,7 @@ import sys
 import numpy as np
 
 """
-testing the integrate package
+testing the fomms_integrate package
 """
 
 def g(x):
